@@ -100,7 +100,7 @@
 		},
 		"telegram": {
 			"enable": false,
-			"botToken": "",
+			"botToken": "7723237191:AAGFFDnRsXJRPISzcTqRXf54P2HlW2AEnKc",
 			"chatId": "",
 			"note": "Can send notifications to many chatId, separate by comma or space, example: \"123456789 987654321\" (without backslash)"
 		},
