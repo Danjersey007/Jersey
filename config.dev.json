@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "jessdans076@gmail.com",
-		"password": "thebrock",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -13,12 +13,12 @@
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "✰✰𝐦𝐢𝐫𝐚 𝐛𝐨𝐭✰✰",
-	"prefix": "~",
+	"prefix": "🍁",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [61560939960734],
+	"adminBot": [61567813072795],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
